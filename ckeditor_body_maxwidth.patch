@@ -1,7 +1,7 @@
-diff --git a/web/core/themes/seven/css/theme/ckeditor-dialog.css b/web/core/themes/seven/css/theme/ckeditor-dialog.css
+diff --git a/core/themes/seven/css/theme/ckeditor-dialog.css b/core/themes/seven/css/theme/ckeditor-dialog.css
 index 3f1e9df64..5a448b9e5 100644
---- a/web/core/themes/seven/css/theme/ckeditor-dialog.css
-+++ b/web/core/themes/seven/css/theme/ckeditor-dialog.css
+--- a/core/themes/seven/css/theme/ckeditor-dialog.css
++++ b/core/themes/seven/css/theme/ckeditor-dialog.css
 @@ -3,6 +3,10 @@
   * CKEditor-native dialogs theming.
   */
